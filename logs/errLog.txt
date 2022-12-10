@@ -1,0 +1,46 @@
+20221109	20:05:32	1caad596-a0be-4bb8-b48f-fedbc20aaa96	Error: Not allowed by CORS
+20221110	12:20:59	cfcf328c-17d1-4ce5-9764-78d8f571fe58	TypeError: Cannot read properties of undefined (reading 'name')
+20221110	12:23:16	4a3c4373-91b5-4ec0-b5aa-e907564f85ce	SyntaxError: Unexpected token ' in JSON at position 1
+20221110	12:24:07	e817b920-7edc-4109-aa97-561d5aa21c40	SyntaxError: Unexpected token ' in JSON at position 1
+20221110	12:24:08	167797f3-b9db-496f-aa6c-c68e84ee252d	SyntaxError: Unexpected token ' in JSON at position 1
+20221110	12:25:30	f33078fc-dc13-4aa2-b619-97150f8811ec	TypeError: Cannot read properties of undefined (reading 'id')
+20221110	12:25:56	0151e845-0961-47c6-a66d-a828b93a20b2	TypeError: Cannot read properties of undefined (reading 'id')
+20221110	12:28:42	e489da1e-ed87-4666-bdb3-36a2e448c2a5	TypeError: Cannot read properties of undefined (reading 'id')
+20221110	12:28:43	8a1a700d-9e19-4b79-9c0e-b6bbf43e9f71	TypeError: Cannot read properties of undefined (reading 'id')
+20221110	12:29:49	f343dbbc-5d2f-484a-8e60-cc758bacb2b7	TypeError: Cannot read properties of undefined (reading 'name')
+20221110	12:30:08	c061eb5a-f368-4ffe-98c7-2c2eb4cb2f45	TypeError: Cannot read properties of undefined (reading 'name')
+20221110	12:30:08	bebb4401-6554-429e-9140-4493e9ed8d97	TypeError: Cannot read properties of undefined (reading 'name')
+20221110	12:30:21	adf0ea04-35f7-4f6a-afef-5e9d81281680	TypeError: Cannot read properties of undefined (reading 'name')
+20221110	12:33:18	27e8c68d-f92b-4d23-a625-fe0f53e78d08	TypeError: Cannot read properties of undefined (reading 'id')
+20221110	16:27:33	0c7053ec-2893-41f1-8fcc-4565940a8744	Error: ENOENT: no such file or directory, stat 'F:\Express-Node Js\first\file\404.html'
+20221110	16:38:40	1e31bc5b-bc94-4d6a-bcbe-29b97d8a2886	Error: ENOENT: no such file or directory, stat 'F:\Express-Node Js\first\file\404.html'
+20221110	16:59:24	77ac5b31-521f-4354-9360-40ab7a95eb7a	Error: ENOENT: no such file or directory, stat 'F:\Express-Node Js\first\file\404.html'
+20221110	17:01:00	6147d576-6395-4b5c-a53f-370638e7a4d3	SyntaxError: Unexpected token ' in JSON at position 1
+20221110	17:03:04	d8e99413-a6ba-4bed-b3ac-6c7c6529a72d	TypeError: Cannot read properties of undefined (reading 'id')
+20221110	17:04:51	15be4495-2a4e-4d4b-ba3d-1d53cef36814	TypeError: Cannot read properties of undefined (reading 'id')
+20221110	17:06:35	29d980ee-000a-4f33-8998-1856684aa6a9	TypeError: Cannot read properties of undefined (reading 'id')
+20221110	17:06:36	3fd3df65-79da-488d-8767-847d8443fbde	TypeError: Cannot read properties of undefined (reading 'id')
+20221110	17:07:57	ffe28e5a-86d6-4074-96bb-d0b7ca7ef726	Error: ENOENT: no such file or directory, stat 'F:\Express-Node Js\first\file\404.html'
+20221110	17:07:57	0f899a6b-35b0-45cf-8268-f5330b3c1a04	Error: ENOENT: no such file or directory, stat 'F:\Express-Node Js\first\file\404.html'
+20221110	17:11:44	2ea9b368-cbd1-4b7a-94f2-0cc3e97c680f	TypeError: Cannot read properties of undefined (reading 'id')
+20221110	17:11:45	99dba0e1-dc6c-475c-bd41-1921f02fa705	TypeError: Cannot read properties of undefined (reading 'id')
+20221110	17:12:59	43e0e617-65a8-4536-922b-a066bb70332e	TypeError: Cannot read properties of undefined (reading 'id')
+20221110	17:13:00	52fb5b04-6375-4134-b302-1f61cf1816dd	TypeError: Cannot read properties of undefined (reading 'id')
+20221110	17:13:27	9dfbab6d-0b1a-467b-94a7-73a59dedb63c	TypeError: Cannot read properties of undefined (reading 'id')
+20221110	17:20:43	2f482c24-f7f4-45d1-b54a-4dc4e7b7ce85	SyntaxError: Unexpected token ' in JSON at position 1
+20221110	17:21:37	b2b2725b-53af-461c-aafd-032e0dd46fee	TypeError: Cannot read properties of undefined (reading 'id')
+20221110	17:22:36	4e0f0efa-53a8-40c9-a48b-4fc4355ea631	TypeError: Cannot read properties of undefined (reading 'id')
+20221110	17:25:45	8f4ed019-6f56-413d-bacb-bef599213ab4	TypeError: Cannot read properties of undefined (reading 'id')
+20221110	18:19:13	e0326cc2-0d4e-4c97-bfa2-ba91f89ade5e	TypeError: Cannot read properties of undefined (reading 'id')
+20221110	18:19:14	3c572b4a-4ce0-4712-999d-95d972a0618a	TypeError: Cannot read properties of undefined (reading 'id')
+20221110	18:19:25	a6da7150-f3aa-4df2-b38c-5daa30845599	TypeError: Cannot read properties of undefined (reading 'id')
+20221110	18:20:03	43c56861-e629-4bd9-92e6-ff4d3c469788	TypeError: Cannot read properties of undefined (reading 'id')
+20221110	18:23:07	fdd980c0-6b8e-478a-847e-4e4355073ebe	TypeError: Cannot read properties of undefined (reading 'id')
+20221110	18:23:10	13dfa51d-a6cd-4669-968a-ab0ffc3d795e	TypeError: Cannot read properties of undefined (reading 'id')
+20221111	18:00:33	ebc0be3d-f716-4b03-871c-b5c53c1e0575	SyntaxError: Unexpected end of JSON input
+20221111	19:26:26	7ec649bb-e2fd-44ee-a663-19f4f8154f70	TypeError: allowedOrigins.includes is not a function
+20221111	19:26:26	372bc935-f4f6-47f7-851a-645c0cec71a6	TypeError: allowedOrigins.includes is not a function
+20221112	07:57:19	b879d3cf-a008-4012-8f14-ec0f2c73ea77	TypeError: authHeader?.startWith is not a function
+20221112	08:00:19	c7434865-e6dc-42b5-9355-cc195668ffb8	TypeError: Cannot read properties of undefined (reading 'username')
+20221112	08:18:08	eb6cd557-6de4-4d5a-b7b9-f0f19e850e07	TypeError: res.sendStaus is not a function
+20221112	08:20:42	f35b004f-c2a6-4e73-9050-d52b7dca9c58	TypeError: res.sendStaus is not a function
